@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DictionaryApi</string>
+    <string name="input_text">Input you query</string>
+</resources>
